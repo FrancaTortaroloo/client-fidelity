@@ -17,7 +17,7 @@ En este repositorio encontrarán 5 archivos:
 
 Aquí debajo dejo unos ejemplos de los gráficos hechos con las librerías anteriormente nombradas.
 
-(https://github.com/FrancaTortaroloo/client-fidelity/blob/main/Captura%20de%20pantalla%202024-09-30%20a%20la(s)%2010.15.34.png?raw=true)
+(https://github.com/FrancaTortaroloo/client-fidelity/blob/main/Captura%20de%20pantalla%202024-09-30%20a%20la(s)%2010.15.34.png)
 
 
 
