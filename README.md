@@ -17,7 +17,7 @@ En este repositorio encontrarán 5 archivos:
 
 Aquí debajo dejo unos ejemplos de los gráficos hechos con las librerías anteriormente nombradas.
 
-![Cantidad de vuelos reservados](/Users/franca/Documents/GitHub/client-fidelity/cantidad-de-vuelos-reservados.png)
+![Cantidad de vuelos reservados](https://github.com/FrancaTortaroloo/client-fidelity/blob/main/cantidad-de-vuelos-reservados.png)
 
 
 
