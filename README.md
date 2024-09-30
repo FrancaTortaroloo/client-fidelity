@@ -17,10 +17,10 @@ En este repositorio encontrarán 5 archivos:
 
 Aquí debajo dejo unos ejemplos de los gráficos hechos con las librerías anteriormente nombradas.
 
-![Cantidad de vuelos reservados](https://github.com/FrancaTortaroloo/client-fidelity/blob/main/cantidad-de-vuelos-reservados.png)
+![Cantidad de vuelos reservados](https://github.com/FrancaTortaroloo/client-fidelity/blob/main/assets/cantidad-de-vuelos-reservados.png)
 
 ![Mapa de calor](https://github.com/FrancaTortaroloo/client-fidelity/blob/main/mapa-de-calor.png)
 
-![Distribución de clientes según estado civil y género](https://github.com/FrancaTortaroloo/client-fidelity/blob/main/clientes-estado-civil-genero.png)
+![Distribución de clientes según estado civil y género](https://github.com/FrancaTortaroloo/client-fidelity/blob/main/assets/mapa-de-calor.png)
 
 
