@@ -19,8 +19,8 @@ Aquí debajo dejo unos ejemplos de los gráficos hechos con las librerías anter
 
 ![Cantidad de vuelos reservados](https://github.com/FrancaTortaroloo/client-fidelity/blob/main/assets/cantidad-de-vuelos-reservados.png)
 
-![Mapa de calor](https://github.com/FrancaTortaroloo/client-fidelity/blob/main/mapa-de-calor.png)
+![Distribución de clientes según estado civil y género](https://github.com/FrancaTortaroloo/client-fidelity/blob/main/assets/clientes-estado-civil-genero.png)
 
-![Distribución de clientes según estado civil y género](https://github.com/FrancaTortaroloo/client-fidelity/blob/main/assets/mapa-de-calor.png)
+![Mapa de calor](https://github.com/FrancaTortaroloo/client-fidelity/blob/main/assets/mapa-de-calor.png)
 
 
