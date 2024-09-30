@@ -17,7 +17,7 @@ En este repositorio encontrarán 5 archivos:
 
 Aquí debajo dejo unos ejemplos de los gráficos hechos con las librerías anteriormente nombradas.
 
-!(client-fidelity/cantidad de vuelos reservados.png)
+!(../client-fidelity/cantidad de vuelos reservados.png)
 
 
 
